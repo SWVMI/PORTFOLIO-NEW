@@ -2,7 +2,7 @@ import React from 'react';
 
 const App = () => {
   return (
-    <div className="min-h-screen font-sans text-slate-900 selection:bg-indigo-100 selection:text-indigo-900">
+    <div className="min-h-screen font-sans text-slate-900 selection:bg-indigo-100 selection:text-indigo-900 bg-[radial-gradient(#cbd5e1_1px,transparent_1px)] [background-size:24px_24px]">
       
       <nav className="fixed w-full top-0 bg-white/90 backdrop-blur-sm border-b border-slate-200 z-50">
         <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
