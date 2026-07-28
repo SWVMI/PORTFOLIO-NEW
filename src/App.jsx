@@ -118,7 +118,7 @@ const App = () => {
         <p className="text-slate-600 text-lg mb-10">
           Open to professional inquiries, technical collaborations, and software development opportunities.
         </p>
-        <a href="mailto:your.email@example.com" className="inline-block px-10 py-4 bg-indigo-600 text-white rounded-full font-bold text-lg hover:bg-indigo-700 transition-all hover:scale-105 shadow-lg shadow-indigo-200">
+        <a href="mailto:swaminathang2020@gmail.com" className="inline-block px-10 py-4 bg-indigo-600 text-white rounded-full font-bold text-lg hover:bg-indigo-700 transition-all hover:scale-105 shadow-lg shadow-indigo-200">
           Initiate Contact
         </a>
       </section>
