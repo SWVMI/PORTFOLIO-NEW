@@ -45,7 +45,7 @@ const App = () => {
             <div>
               <p className="text-slate-600 mb-6 text-lg leading-relaxed">
                 As an MCA student based in Kerala, India, I specialize in full-stack web development utilizing PHP, MySQL, and modern frontend interfaces. I focus on clean code structuring, efficient database querying, and building reliable database-backed applications.
-              </p>
+              </p> 
               <blockquote className="border-l-4 border-indigo-600 pl-6 italic text-slate-700 font-medium text-lg">
                 "Structured database design and clean backend logic form the backbone of maintainable software."
               </blockquote>
